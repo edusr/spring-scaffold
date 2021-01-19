@@ -1,0 +1,7 @@
+package <package>;
+
+import <base-package>.domain.<domain-name>;
+
+public interface <class-name> extends JpaRepository< <domain-name>, <id-type>>{
+		
+}
