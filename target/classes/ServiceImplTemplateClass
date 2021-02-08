@@ -1,8 +1,0 @@
-package <package>;
-
-import org.springframework.stereotype.Service;
-
-@Service
-class <class-name> implements <interface-name> {
-
-}

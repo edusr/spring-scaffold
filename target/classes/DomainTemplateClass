@@ -1,7 +1,0 @@
-package <package>;
-
-import java.io.Serializable;
-
-public class <class-name> implements Serializable {
-
-}
